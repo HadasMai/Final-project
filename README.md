@@ -1,3 +1,13 @@
 # Final-project - Coming soon
-שימוש ב- AI  לאיור ספרי ילדים בהתאמה אישית.
-![Uploading image.png…]()
+Using AI to illustrate customized children's books.
+![image](https://github.com/HadasMai/Final-project/assets/154980811/8f889e2c-2e2b-4004-890d-8b57c9d20c4b)
+
+Motivation for the project:
+Many children love to write stories and create original plots.
+
+However, when they want to turn their stories into illustrated books, they encounter a limitation—they need advanced illustration skills or must invest resources in hiring an illustrator.
+
+As a result, many give up on visually illustrating their stories.
+
+We aim to solve this problem by developing an application that allows children to create drawings automatically using AI for their stories based on the texts they write.
+![image](https://github.com/HadasMai/Final-project/assets/154980811/89e3ee96-384e-4cec-a652-af6df26d0fcb)
