@@ -10,4 +10,5 @@ However, when they want to turn their stories into illustrated books, they encou
 As a result, many give up on visually illustrating their stories.
 
 We aim to solve this problem by developing an application that allows children to create drawings automatically using AI for their stories based on the texts they write.
+
 ![image](https://github.com/HadasMai/Final-project/assets/154980811/89e3ee96-384e-4cec-a652-af6df26d0fcb)
